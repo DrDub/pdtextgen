@@ -1,0 +1,32 @@
+The PdTextGen library for Pure Data text generation.
+----------------------------------------------------
+
+PdTextGen is a pure Python compiler to transform natural language
+generation messages and lexica into Pure Data patches.
+
+
+LICENSE
+-------
+
+Copyright 2012 Pablo Duboue
+<pablo.duboue@gmail.com>
+http://duboue.net
+
+PdTextGen is free software: you can redistribute it and/or modify it
+under the terms of the GNU General Public License as published by the
+Free Software Foundation, either version 3 of the License, or (at your
+option) any later version.
+
+PdTextGen is distributed in the hope that it will be useful, but
+WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+General Public License for more details.
+
+You should have received a copy of the gnu general public license
+along with PdTextGen.  If not, see <http://www.gnu.org/licenses/>.
+
+EXAMPLES
+--------
+
+Some example input is shipped with pdtextgen. To try them, run
+msg2pd.py with the inputs in the examples directory.
