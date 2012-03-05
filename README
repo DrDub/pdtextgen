@@ -4,6 +4,8 @@ The PdTextGen library for Pure Data text generation.
 PdTextGen is a pure Python compiler to transform natural language
 generation messages and lexica into Pure Data patches.
 
+PdTextGen requires PdFile, from the same author.
+
 
 LICENSE
 -------
